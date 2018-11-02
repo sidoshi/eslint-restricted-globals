@@ -1,6 +1,6 @@
 {
   "name": "eslint-restricted-globals",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A list of confusing globals that should be restricted to be used as globals",
   "main": "index.js",
   "scripts": {
