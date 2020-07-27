@@ -1,5 +1,8 @@
 # eslint-restricted-globals [![npm](https://img.shields.io/npm/v/eslint-restricted-globals.svg?style=plastic)](https://www.npmjs.com/package/eslint-restricted-globals) [![npm](https://img.shields.io/npm/l/eslint-restricted-globals.svg?style=plastic)](https://www.npmjs.com/package/eslint-restricted-globals)
 
+> :warning: **This package is deprecated. Please check [confusing-browser-globals](https://www.npmjs.com/package/confusing-browser-globals) instead which solves the same problem and is preferred over this package.**
+
+
 > A list of confusing globals that should be restricted to be used as globals
 
 ## Install
